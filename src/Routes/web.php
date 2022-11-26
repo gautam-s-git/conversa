@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Laravel\Conversa\Http\Controllers\ConversaController;
+use Realtime\Conversa\Http\Controllers\ConversaController;
 
 Route::get('/initlize',function(){
 

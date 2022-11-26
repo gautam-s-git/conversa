@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit1db6974875945fa6397890080722630f
 {
     public static $prefixLengthsPsr4 = array (
-        'L' => 
+        'R' => 
         array (
-            'Laravel\\Conversa\\' => 17,
+            'Realtime\\Conversa\\' => 18,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Laravel\\Conversa\\' => 
+        'Realtime\\Conversa\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

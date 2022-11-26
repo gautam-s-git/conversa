@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\Conversa\Http\Controllers;
+namespace Realtime\Conversa\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 

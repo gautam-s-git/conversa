@@ -1,5 +1,5 @@
 <?php
-namespace Laravel\Conversa;
+namespace Realtime\Conversa;
 
 use Illuminate\Support\ServiceProvider;
 

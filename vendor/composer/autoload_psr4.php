@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Laravel\\Conversa\\' => array($baseDir . '/src'),
+    'Realtime\\Conversa\\' => array($baseDir . '/src'),
 );
